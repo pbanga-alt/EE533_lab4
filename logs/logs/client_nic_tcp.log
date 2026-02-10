@@ -1,0 +1,206 @@
+------------------------------------------------------------
+Client connecting to 10.0.13.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 57066 connected with 10.0.13.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-10.0 sec   114 MBytes  95.0 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.15.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 52002 connected with 10.0.15.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 7.7 sec  88.5 MBytes  96.6 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.12.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 48540 connected with 10.0.12.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.0 sec   640 KBytes   111 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.13.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 57069 connected with 10.0.13.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.2 sec  14.1 MBytes  98.2 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.15.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 52005 connected with 10.0.15.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.3 sec  2.75 MBytes  90.5 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.12.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 48543 connected with 10.0.12.3 port 5003
+------------------------------------------------------------
+Client connecting to 10.0.13.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 57072 connected with 10.0.13.3 port 5003
+------------------------------------------------------------
+Client connecting to 10.0.15.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 52008 connected with 10.0.15.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.0 sec   256 KBytes   129 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.12.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 48546 connected with 10.0.12.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.0 sec   128 KBytes   153 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.13.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 57075 connected with 10.0.13.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.0 sec   128 KBytes   252 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.15.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 52011 connected with 10.0.15.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.0 sec   256 KBytes   147 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.12.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 48549 connected with 10.0.12.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec  1.25 MBytes   119 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.13.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 57078 connected with 10.0.13.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec  1.38 MBytes   121 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.15.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 52014 connected with 10.0.15.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec  1.00 MBytes   112 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.12.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 48552 connected with 10.0.12.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec  1.38 MBytes   115 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.13.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 57081 connected with 10.0.13.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec  1.12 MBytes   110 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.15.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 52017 connected with 10.0.15.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec  1.38 MBytes   108 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.12.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 48555 connected with 10.0.12.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec   768 KBytes   122 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.13.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 57084 connected with 10.0.13.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec  1.12 MBytes   111 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.15.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 52020 connected with 10.0.15.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec  1.00 MBytes   120 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.12.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 48558 connected with 10.0.12.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec  1.00 MBytes   111 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.13.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 57087 connected with 10.0.13.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec  1.25 MBytes   125 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.15.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 52023 connected with 10.0.15.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec  1.38 MBytes   110 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.12.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 48561 connected with 10.0.12.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec  1.62 MBytes  98.4 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.13.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 57090 connected with 10.0.13.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec  1.38 MBytes   108 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.15.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 52026 connected with 10.0.15.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec  1.38 MBytes   106 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.12.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 48564 connected with 10.0.12.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec  1.62 MBytes   110 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.13.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 57093 connected with 10.0.13.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec   896 KBytes   124 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.15.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 52029 connected with 10.0.15.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec  1.00 MBytes   124 Mbits/sec
+------------------------------------------------------------
+Client connecting to 10.0.12.3, TCP port 5003
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 48567 connected with 10.0.12.3 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.1 sec  1.38 MBytes   109 Mbits/sec

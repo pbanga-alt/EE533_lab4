@@ -1,0 +1,96 @@
+------------------------------------------------------------
+Server listening on UDP port 5001
+Receiving 1470 byte datagrams
+UDP buffer size: 2.00 MByte (default)
+------------------------------------------------------------
+[  3] local 10.0.14.3 port 5001 connected with 10.0.12.3 port 55003
+[  4] local 10.0.14.3 port 5001 connected with 10.0.13.3 port 43083
+[  5] local 10.0.14.3 port 5001 connected with 10.0.15.3 port 48723
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3]  0.0-30.0 sec   171 MBytes  47.8 Mbits/sec   0.253 ms 80545/202696 (40%)
+[  3]  0.0-30.0 sec  14 datagrams received out-of-order
+[  4]  0.0-30.0 sec   169 MBytes  47.2 Mbits/sec   0.090 ms 80107/200440 (40%)
+[  4]  0.0-30.0 sec  25 datagrams received out-of-order
+[  5]  0.0-30.0 sec   183 MBytes  51.3 Mbits/sec   0.248 ms 91916/222713 (41%)
+[  5]  0.0-30.0 sec  1 datagrams received out-of-order
+[  6] local 10.0.14.3 port 5001 connected with 10.0.13.3 port 52885
+[  3] local 10.0.14.3 port 5001 connected with 10.0.12.3 port 46261
+[  4] local 10.0.14.3 port 5001 connected with 10.0.15.3 port 40197
+[  6]  0.0-30.0 sec   193 MBytes  54.0 Mbits/sec   0.183 ms 69652/207573 (34%)
+[  6]  0.0-30.0 sec  6 datagrams received out-of-order
+[  3]  0.0-30.0 sec   169 MBytes  47.2 Mbits/sec   0.130 ms 75843/196316 (39%)
+[  3]  0.0-30.0 sec  7 datagrams received out-of-order
+[  4]  0.0-30.0 sec   211 MBytes  59.0 Mbits/sec   1.711 ms 103910/254247 (41%)
+[  4]  0.0-30.0 sec  9 datagrams received out-of-order
+[  5] local 10.0.14.3 port 5001 connected with 10.0.13.3 port 47066
+[  3] local 10.0.14.3 port 5001 connected with 10.0.15.3 port 49054
+[  4] local 10.0.14.3 port 5001 connected with 10.0.12.3 port 56279
+[  5]  0.0-30.0 sec   148 MBytes  41.4 Mbits/sec   0.190 ms 78684/184309 (43%)
+[  5]  0.0-30.0 sec  1 datagrams received out-of-order
+[  3]  0.0-30.0 sec   170 MBytes  47.5 Mbits/sec   0.168 ms 82858/204133 (41%)
+[  3]  0.0-30.0 sec  1 datagrams received out-of-order
+[  4]  0.0-30.2 sec   235 MBytes  65.1 Mbits/sec  11.429 ms 97281/264648 (37%)
+[  4]  0.0-30.2 sec  1 datagrams received out-of-order
+[  6] local 10.0.14.3 port 5001 connected with 10.0.13.3 port 39530
+[  3] local 10.0.14.3 port 5001 connected with 10.0.15.3 port 33400
+[  4] local 10.0.14.3 port 5001 connected with 10.0.12.3 port 59422
+[  6]  0.0-30.0 sec   177 MBytes  49.4 Mbits/sec   0.223 ms 63174/189275 (33%)
+[  6]  0.0-30.0 sec  1 datagrams received out-of-order
+[  3]  0.0-30.0 sec   218 MBytes  61.0 Mbits/sec   0.300 ms 57249/212870 (27%)
+[  3]  0.0-30.0 sec  1 datagrams received out-of-order
+[  4]  0.0-30.0 sec   290 MBytes  81.1 Mbits/sec   0.039 ms 60852/267711 (23%)
+[  4]  0.0-30.0 sec  1 datagrams received out-of-order
+[  5] local 10.0.14.3 port 5001 connected with 10.0.13.3 port 43269
+[  3] local 10.0.14.3 port 5001 connected with 10.0.15.3 port 50723
+[  4] local 10.0.14.3 port 5001 connected with 10.0.12.3 port 57626
+[  5]  0.0-30.0 sec   131 MBytes  36.6 Mbits/sec   0.247 ms 49204/142720 (34%)
+[  5]  0.0-30.0 sec  1 datagrams received out-of-order
+[  3]  0.0-30.0 sec   217 MBytes  60.5 Mbits/sec   0.200 ms 65862/220400 (30%)
+[  3]  0.0-30.0 sec  1 datagrams received out-of-order
+[  4]  0.0-30.0 sec   260 MBytes  72.5 Mbits/sec   0.322 ms 74863/260055 (29%)
+[  4]  0.0-30.0 sec  1 datagrams received out-of-order
+[  6] local 10.0.14.3 port 5001 connected with 10.0.13.3 port 48003
+[  3] local 10.0.14.3 port 5001 connected with 10.0.15.3 port 39880
+[  4] local 10.0.14.3 port 5001 connected with 10.0.12.3 port 42077
+[  6]  0.0-30.0 sec   207 MBytes  57.9 Mbits/sec   0.103 ms 48775/196465 (25%)
+[  6]  0.0-30.0 sec  1 datagrams received out-of-order
+[  3]  0.0-30.2 sec   265 MBytes  73.7 Mbits/sec  13.802 ms 44454/233839 (19%)
+[  3]  0.0-30.2 sec  1 datagrams received out-of-order
+[  4]  0.0-30.0 sec   226 MBytes  63.2 Mbits/sec   0.243 ms 22339/183562 (12%)
+[  4]  0.0-30.0 sec  1 datagrams received out-of-order
+[  5] local 10.0.14.3 port 5001 connected with 10.0.13.3 port 46196
+[  3] local 10.0.14.3 port 5001 connected with 10.0.15.3 port 57267
+[  4] local 10.0.14.3 port 5001 connected with 10.0.12.3 port 36233
+[  5]  0.0-30.0 sec   160 MBytes  44.8 Mbits/sec   0.089 ms 54306/168769 (32%)
+[  5]  0.0-30.0 sec  1 datagrams received out-of-order
+[  3]  0.0-30.0 sec   263 MBytes  73.5 Mbits/sec   0.105 ms 30281/217654 (14%)
+[  3]  0.0-30.0 sec  1 datagrams received out-of-order
+[  4]  0.0-30.0 sec   245 MBytes  68.5 Mbits/sec   0.305 ms 45221/219992 (21%)
+[  4]  0.0-30.0 sec  1 datagrams received out-of-order
+[  6] local 10.0.14.3 port 5001 connected with 10.0.13.3 port 41441
+[  3] local 10.0.14.3 port 5001 connected with 10.0.15.3 port 35148
+[  4] local 10.0.14.3 port 5001 connected with 10.0.12.3 port 35045
+[  6]  0.0-30.0 sec   234 MBytes  65.5 Mbits/sec   0.133 ms 91102/258278 (35%)
+[  6]  0.0-30.0 sec  1 datagrams received out-of-order
+[  3]  0.0-30.0 sec   168 MBytes  46.9 Mbits/sec   0.161 ms 84387/204053 (41%)
+[  3]  0.0-30.0 sec  2 datagrams received out-of-order
+[  4]  0.0-30.0 sec   193 MBytes  53.9 Mbits/sec   0.190 ms 33177/170605 (19%)
+[  4]  0.0-30.0 sec  7 datagrams received out-of-order
+[  5] local 10.0.14.3 port 5001 connected with 10.0.13.3 port 45164
+[  3] local 10.0.14.3 port 5001 connected with 10.0.15.3 port 47440
+[  4] local 10.0.14.3 port 5001 connected with 10.0.12.3 port 42857
+[  5]  0.0-30.0 sec   177 MBytes  49.3 Mbits/sec   0.238 ms 67960/193922 (35%)
+[  5]  0.0-30.0 sec  1 datagrams received out-of-order
+[  3]  0.0-30.0 sec   250 MBytes  69.8 Mbits/sec   0.139 ms 78200/256451 (30%)
+[  3]  0.0-30.0 sec  1 datagrams received out-of-order
+[  4]  0.0-30.0 sec   194 MBytes  54.2 Mbits/sec   0.335 ms 49054/187212 (26%)
+[  4]  0.0-30.0 sec  5 datagrams received out-of-order
+[  6] local 10.0.14.3 port 5001 connected with 10.0.13.3 port 56999
+[  3] local 10.0.14.3 port 5001 connected with 10.0.15.3 port 53487
+[  4] local 10.0.14.3 port 5001 connected with 10.0.12.3 port 58720
+[  6]  0.0-30.0 sec   236 MBytes  66.1 Mbits/sec   0.090 ms 49405/218000 (23%)
+[  6]  0.0-30.0 sec  1 datagrams received out-of-order
+[  3]  0.0-30.0 sec   265 MBytes  74.1 Mbits/sec   2.489 ms 29462/218360 (13%)
+[  3]  0.0-30.0 sec  1 datagrams received out-of-order
+[  4]  0.0-30.0 sec   246 MBytes  68.7 Mbits/sec   0.167 ms 18578/193770 (9.6%)
+[  4]  0.0-30.0 sec  1 datagrams received out-of-order

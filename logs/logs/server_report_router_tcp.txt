@@ -1,0 +1,75 @@
+------------------------------------------------------------
+Server listening on TCP port 5004
+TCP window size:  128 KByte (default)
+------------------------------------------------------------
+[  4] local 10.0.14.3 port 5004 connected with 10.0.15.3 port 51063
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.2 sec  1.50 MBytes  79.7 Mbits/sec
+[  5] local 10.0.14.3 port 5004 connected with 10.0.15.3 port 51066
+[  5]  0.0- 0.1 sec   640 KBytes  81.3 Mbits/sec
+[  4] local 10.0.14.3 port 5004 connected with 10.0.15.3 port 51069
+[  4]  0.0- 0.1 sec   512 KBytes  75.5 Mbits/sec
+[  5] local 10.0.14.3 port 5004 connected with 10.0.15.3 port 51072
+[  5]  0.0- 0.1 sec   640 KBytes  76.1 Mbits/sec
+[  4] local 10.0.14.3 port 5004 connected with 10.0.15.3 port 51075
+[  4]  0.0- 0.2 sec  1.88 MBytes  81.9 Mbits/sec
+[  5] local 10.0.14.3 port 5004 connected with 10.0.15.3 port 51078
+[  4] local 10.0.14.3 port 5004 connected with 10.0.13.3 port 41211
+[  6] local 10.0.14.3 port 5004 connected with 10.0.12.3 port 57682
+[  5]  0.0-10.0 sec   261 MBytes   218 Mbits/sec
+[  4]  0.0-10.0 sec   222 MBytes   186 Mbits/sec
+[  6]  0.0-10.0 sec   217 MBytes   182 Mbits/sec
+[  7] local 10.0.14.3 port 5004 connected with 10.0.15.3 port 51081
+[  4] local 10.0.14.3 port 5004 connected with 10.0.13.3 port 41214
+[  5] local 10.0.14.3 port 5004 connected with 10.0.12.3 port 57685
+[  7]  0.0-10.0 sec   382 MBytes   320 Mbits/sec
+[  4]  0.0-10.0 sec   175 MBytes   146 Mbits/sec
+[  5]  0.0-10.0 sec   245 MBytes   205 Mbits/sec
+[  6] local 10.0.14.3 port 5004 connected with 10.0.15.3 port 51084
+[  4] local 10.0.14.3 port 5004 connected with 10.0.12.3 port 57688
+[  5] local 10.0.14.3 port 5004 connected with 10.0.13.3 port 41217
+[  6]  0.0-10.0 sec   299 MBytes   249 Mbits/sec
+[  4]  0.0-10.0 sec   246 MBytes   207 Mbits/sec
+[  5]  0.0-10.0 sec   183 MBytes   153 Mbits/sec
+[  7] local 10.0.14.3 port 5004 connected with 10.0.15.3 port 51087
+[  4] local 10.0.14.3 port 5004 connected with 10.0.12.3 port 57691
+[  5] local 10.0.14.3 port 5004 connected with 10.0.13.3 port 41220
+[  7]  0.0-10.1 sec   353 MBytes   294 Mbits/sec
+[  5]  0.0-10.0 sec   234 MBytes   196 Mbits/sec
+[  4]  0.0-10.5 sec  46.6 MBytes  37.3 Mbits/sec
+[  6] local 10.0.14.3 port 5004 connected with 10.0.15.3 port 51090
+[  4] local 10.0.14.3 port 5004 connected with 10.0.12.3 port 57694
+[  5] local 10.0.14.3 port 5004 connected with 10.0.13.3 port 41223
+[  6]  0.0-10.1 sec   294 MBytes   245 Mbits/sec
+[  4]  0.0-10.0 sec   133 MBytes   111 Mbits/sec
+[  5]  0.0-10.0 sec   279 MBytes   234 Mbits/sec
+[  7] local 10.0.14.3 port 5004 connected with 10.0.15.3 port 51093
+[  4] local 10.0.14.3 port 5004 connected with 10.0.13.3 port 41226
+[  5] local 10.0.14.3 port 5004 connected with 10.0.12.3 port 57697
+[  7]  0.0-10.0 sec   366 MBytes   306 Mbits/sec
+[  4]  0.0-10.0 sec  77.5 MBytes  64.9 Mbits/sec
+[  5]  0.0-10.0 sec   145 MBytes   122 Mbits/sec
+[  6] local 10.0.14.3 port 5004 connected with 10.0.13.3 port 41229
+[  4] local 10.0.14.3 port 5004 connected with 10.0.15.3 port 51096
+[  5] local 10.0.14.3 port 5004 connected with 10.0.12.3 port 42272
+[  6]  0.0-10.0 sec   290 MBytes   243 Mbits/sec
+[  4]  0.0-10.1 sec  91.8 MBytes  76.5 Mbits/sec
+[  5]  0.0-10.0 sec  95.9 MBytes  80.3 Mbits/sec
+[  7] local 10.0.14.3 port 5004 connected with 10.0.13.3 port 41232
+[  4] local 10.0.14.3 port 5004 connected with 10.0.12.3 port 42275
+[  5] local 10.0.14.3 port 5004 connected with 10.0.15.3 port 51099
+[  4]  0.0-10.3 sec  82.2 MBytes  67.0 Mbits/sec
+[  7]  0.0-10.7 sec   246 MBytes   193 Mbits/sec
+[  5]  0.0-10.0 sec   190 MBytes   159 Mbits/sec
+[  6] local 10.0.14.3 port 5004 connected with 10.0.13.3 port 51058
+[  4] local 10.0.14.3 port 5004 connected with 10.0.15.3 port 51102
+[  5] local 10.0.14.3 port 5004 connected with 10.0.12.3 port 42278
+[  6]  0.0-10.0 sec   266 MBytes   223 Mbits/sec
+[  4]  0.0-10.0 sec   105 MBytes  88.2 Mbits/sec
+[  5]  0.0-10.0 sec   132 MBytes   111 Mbits/sec
+[  7] local 10.0.14.3 port 5004 connected with 10.0.13.3 port 51061
+[  4] local 10.0.14.3 port 5004 connected with 10.0.15.3 port 46667
+[  5] local 10.0.14.3 port 5004 connected with 10.0.12.3 port 42281
+[  7]  0.0-10.0 sec   279 MBytes   234 Mbits/sec
+[  4]  0.0-10.0 sec  87.0 MBytes  72.9 Mbits/sec
+[  5]  0.0-10.0 sec   132 MBytes   111 Mbits/sec
